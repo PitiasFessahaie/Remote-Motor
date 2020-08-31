@@ -1,7 +1,7 @@
-  //Remote Controlled DC Motor
-//Used microcontroller: PIC16F877A @ 12MHz
-//electronnote@gmail.com
-//Use at your own risk
+ //Remote Controlled DC Motor
+ //Used microcontroller: PIC16F877A @ 12MHz
+ //Email :selamptsegu@gmail.com
+ //Use at your own risk
 
   // LCD module connections
 sbit LCD_RS at RD0_bit;
